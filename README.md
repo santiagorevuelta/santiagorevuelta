@@ -1,4 +1,4 @@
-# 👋 Hola, soy Santiago Revuelta
+# 👋 Hola, soy Santi.Rev
 
 ¡Bienvenido a mi espacio en GitHub!
 
